@@ -1,8 +1,8 @@
- ###Boas vindas ao meu perfi 👋
+ ###Boas vindas ao meu perfil 👋
  
  Meu nome é Vanessa Moro
  
-   -Estou ustudando na [Alura](https://www.alura.com.br)
+   -Estou estudando na [Alura](https://www.alura.com.br)
    
    -Estou me desenvolvendo na linguagem JavaScript.
    
